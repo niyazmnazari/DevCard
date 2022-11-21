@@ -5,7 +5,6 @@ C:\Users\n.nazari\source\repos\DevCard\DevCard_MVC\bin\Debug\net5.0\DevCard_MVC.
 C:\Users\n.nazari\source\repos\DevCard\DevCard_MVC\bin\Debug\net5.0\DevCard_MVC.runtimeconfig.json
 C:\Users\n.nazari\source\repos\DevCard\DevCard_MVC\bin\Debug\net5.0\DevCard_MVC.runtimeconfig.dev.json
 C:\Users\n.nazari\source\repos\DevCard\DevCard_MVC\bin\Debug\net5.0\DevCard_MVC.dll
-C:\Users\n.nazari\source\repos\DevCard\DevCard_MVC\bin\Debug\net5.0\ref\DevCard_MVC.dll
 C:\Users\n.nazari\source\repos\DevCard\DevCard_MVC\bin\Debug\net5.0\DevCard_MVC.pdb
 C:\Users\n.nazari\source\repos\DevCard\DevCard_MVC\bin\Debug\net5.0\DevCard_MVC.Views.dll
 C:\Users\n.nazari\source\repos\DevCard\DevCard_MVC\bin\Debug\net5.0\DevCard_MVC.Views.pdb
@@ -36,3 +35,10 @@ C:\Users\n.nazari\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\ref\DevCard_
 C:\Users\n.nazari\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.pdb
 C:\Users\n.nazari\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.genruntimeconfig.cache
 C:\Users\n.nazari\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.csproj.CopyComplete
+C:\Users\n.nazari\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\staticwebassets\DevCard_MVC.StaticWebAssets.Pack.cache
+C:\Users\n.nazari\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\staticwebassets\msbuild.DevCard_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\n.nazari\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\staticwebassets\msbuild.build.DevCard_MVC.props
+C:\Users\n.nazari\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.DevCard_MVC.props
+C:\Users\n.nazari\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.DevCard_MVC.props
+C:\Users\n.nazari\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\n.nazari\source\repos\DevCard\DevCard_MVC\obj\Debug\net5.0\refint\DevCard_MVC.dll
