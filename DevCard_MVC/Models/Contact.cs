@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.AspNetCore.Mvc.Rendering;
+using System.ComponentModel.DataAnnotations;
 
 namespace DevCard_MVC.Models
 {
@@ -12,8 +13,10 @@ namespace DevCard_MVC.Models
 		[Required(ErrorMessage = "Email is Mandatory.")]
 		[EmailAddress(ErrorMessage ="Is not a vvalid email address.")]
 		public string Email { get; set; }
-		public string Service { get; set; }
+		public int Service { get; set; }
 		public string Message { get; set; }
+
+		public SelectList Services { get; set; }
 
 	}
 }
